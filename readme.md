@@ -1,5 +1,12 @@
-Project Title: A basic calculator program
-Name: Abrar Mahmud Hasan
+# Project Title: A Basic Calculator Program  
 
-Description:
-This is a simple calculator program that can do basic mathematical operations.
+**Name:** Abrar Mahmud Hasan  
+
+## Description  
+
+This is a simple calculator program that can perform basic mathematical operations such as:  
+
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
